@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title1 h1{
+    text-align: center;
+}
+
+.box{
+    height: auto;
+    background-color: #EC681E;
+
+}
+
+.box img{
+    width: 100%;
+}
